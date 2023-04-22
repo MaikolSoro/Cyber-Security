@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9daa148753bd1616",
+    "type": "split",
+    "children": [
+      {
+        "id": "da9d8ae83fbc46cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9214b0e5b40ebe8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4843ff0382ad023d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c51bf1ecdb6eb90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "265062e33609b84b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "973fd3de4baa7a28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86a09a8426d77663",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "bcf92ae4f720dcca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7751e5c6180e0078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71bc952d66fd707c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f548a7a4f4c95ee9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8de33b7b5ebec832",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98e3e2dcf2b4bbf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "265062e33609b84b",
+  "lastOpenFiles": [
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Shellshock.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de asignación masiva.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque Type Juggling.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque de oráculo de relleno (Padding Oracle).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de subidas de archivos.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de APIS.md",
+    "Apuntes/Hacking/BurpSuite.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Remote File Inclusion (RFI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Log Poisoning (LFI - RCE).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Request Forgery (CSRF).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Request Forgery (SSRF).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Client-Side Template Injection (CSTI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Template Injection (SSTI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones NoSQL.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/LDAP.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de Deserialización.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones LaTeX.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Prototype Pollution.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de transferencia de zona (AXFR – Full Zone Transfer).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Open Redirect.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Squid Proxy.md",
+    "Apuntes/Hacking",
+    "Apuntes/Hacking/Explotación Vulnerabilidades",
+    "Apuntes/Docker",
+    "Apuntes/Nmap",
+    "Apuntes/Gestores de contenido/Magento",
+    "Apuntes/Gestores de contenido/Joomla",
+    "Apuntes/Gestores de contenido/Drupal",
+    "Apuntes/Gestores de contenido/WordPress",
+    "Apuntes/Gestores de contenido",
+    "conocimiento/conocimiento/conocimiento/images/wrsfgwsergrsedghdrfg.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 9.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 8.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 7.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 7 1.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 6.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 6 1.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 5.png",
+    "conocimiento/conocimiento/conocimiento/images/Untitled 5 1.png"
+  ]
+}
