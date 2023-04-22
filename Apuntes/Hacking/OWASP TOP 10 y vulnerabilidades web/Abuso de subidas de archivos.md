@@ -6,6 +6,6 @@ Los atacantes también pueden utilizar técnicas de “**falsificación de tipos
 
 En esta clase, exploraremos algunas de las técnicas más utilizadas para explotar la fase de subida de archivos en aplicaciones web. Aprenderás cómo los atacantes pueden cargar contenido malicioso, además de eludir diferentes restricciones implementadas para lograrlo.
 
-A continuación, se os comparte el enlace al proyecto de Github el cual estaremos empleando para desplegar un laboratorio práctico en Docker con el que poder practicar estos conceptos:
+A continuación, se os comparte el enlace al proyecto de Github en el cual para desplegar un laboratorio práctico en Docker con el que poder practicar estos conceptos:
 
 -   **File Upload Laboratory**: [https://github.com/moeinfatehi/file_upload_vulnerability_scenarios](https://github.com/moeinfatehi/file_upload_vulnerability_scenarios)

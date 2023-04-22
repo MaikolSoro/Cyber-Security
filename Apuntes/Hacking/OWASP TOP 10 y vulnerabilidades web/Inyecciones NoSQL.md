@@ -4,6 +4,6 @@ La inyección NoSQL funciona de manera similar a la inyección SQL, pero se enfo
 
 A diferencia de las inyecciones SQL, las inyecciones NoSQL explotan la falta de validación de los datos en una consulta a la base de datos NoSQL, en lugar de explotar las debilidades de las consultas SQL en las **bases de datos relacionales**.
 
-A continuación, se proporciona el enlace al proyecto de Github que nos descargamos para poner en práctica esta vulnerabilidad:
+A continuación, se proporciona el enlace al proyecto de Github, para poner en práctica esta vulnerabilidad:
 
 -   **Vulnerable-Node-App**: [https://github.com/Charlie-belmer/vulnerable-node-app](https://github.com/Charlie-belmer/vulnerable-node-app)

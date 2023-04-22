@@ -20,6 +20,6 @@ Donde:
 
 Para prevenir los ataques AXFR, es importante que los administradores de red configuren adecuadamente los servidores DNS y limiten el acceso a la transferencia de zona solo a servidores autorizados. También es importante mantener actualizado el software del servidor DNS y utilizar técnicas de cifrado y autenticación fuertes para proteger los datos que se transmiten a través de la red. Los administradores también pueden utilizar herramientas de monitoreo de DNS para detectar y prevenir posibles ataques de transferencia de zona.
 
-A continuación, se proporciona el enlace correspondiente al proyecto de Github que nos descargamos para desplegar un entorno en Docker vulnerable con el que poder practicar:
+A continuación, se proporciona el enlace correspondiente al proyecto de Github, para desplegar un entorno en Docker vulnerable con el que poder practicar:
 
 -   **DNS-Zone-Transfer**: [https://github.com/vulhub/vulhub/tree/master/dns/dns-zone-transfer](https://github.com/vulhub/vulhub/tree/master/dns/dns-zone-transfer)

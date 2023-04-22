@@ -11,6 +11,6 @@ Otra de las herramientas que vemos en esta clase es **Cadaver**. Cadaver es otr
 
 Para prevenir la enumeración y explotación de WebDAV, es importante que los administradores de sistemas implementen medidas de seguridad adecuadas en el servidor. Esto puede incluir la limitación de los recursos disponibles en el servidor y la utilización de autenticación y autorización fuertes. Además, es importante que los usuarios protejan sus contraseñas y eviten el uso de contraseñas débiles o fáciles de adivinar.
 
-A continuación, se proporciona el enlace al proyecto de Github el cual estaremos usando en esta clase para desplegar un entorno vulnerable con el que poder practicar:
+A continuación, se proporciona el enlace al proyecto de Github , para desplegar un entorno vulnerable con el que poder practicar:
 
 -   **WebDav**: [https://hub.docker.com/r/bytemark/webdav](https://hub.docker.com/r/bytemark/webdav)

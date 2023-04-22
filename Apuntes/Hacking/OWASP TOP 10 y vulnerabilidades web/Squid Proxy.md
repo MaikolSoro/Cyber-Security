@@ -30,4 +30,3 @@ Por otro lado, os compartimos también el enlace de descarga de la máquina **S
 
 -   **Máquina SickOs 1.1**: [https://www.vulnhub.com/entry/sickos-11,132/](https://www.vulnhub.com/entry/sickos-11,132/)
 
-Adicionalmente, en esta clase aprovecharemos la ocasión para desarrollar una pequeña herramienta en Python, la cual similar a ‘spose’, nos permitirá enumerar puertos abiertos en un servidor pasando a través del Squid Proxy.

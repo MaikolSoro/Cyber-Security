@@ -8,6 +8,6 @@ Una vez que el objeto ha sido manipulado, el atacante puede ejecutar código mal
 
 El impacto de la explotación del ataque Prototype Pollution puede ser significativo, ya que los atacantes pueden tomar el control de la aplicación o comprometer los datos de los usuarios. Además, dado que el ataque se basa en vulnerabilidades en la implementación de objetos en JavaScript, puede ser difícil de detectar y corregir.
 
-A continuación, se proporciona el enlace directo al proyecto de Github que utilizamos en esta clase para desplegar un entorno vulnerable con el que poder practicar:
+A continuación, se proporciona el enlace directo al proyecto de Github, para desplegar un entorno vulnerable con el que poder practicar:
 
 -   **SKF-LABS**: [https://github.com/blabla1337/skf-labs](https://github.com/blabla1337/skf-labs)

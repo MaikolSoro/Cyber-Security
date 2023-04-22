@@ -16,6 +16,6 @@ Un ataque SSRF implica enviar solicitudes HTTP desde el servidor hacia direccion
 
 Al explotar con éxito un SSRF, el atacante puede enviar solicitudes HTTP a servicios internos que de otra manera no estarían disponibles para la red externa. Esto puede permitir al atacante obtener **información sensible** o incluso **tomar el control** de los servicios internos.
 
-A continuación, se proporciona el enlace al proyecto de Github correspondiente al laboratorio que estaremos desplegando en esta clase para practicar esta vulnerabilidad:
+A continuación, se proporciona el enlace al proyecto de Github correspondiente al laboratorio para practicar esta vulnerabilidad:
 
 -   **XXELab**: [https://github.com/jbarone/xxelab](https://github.com/jbarone/xxelab)

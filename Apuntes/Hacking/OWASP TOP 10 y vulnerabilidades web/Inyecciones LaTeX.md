@@ -8,6 +8,6 @@ Para evitar las inyecciones LaTeX, las aplicaciones web deben validar y limpiar 
 
 También es importante que las aplicaciones web se ejecuten con privilegios mínimos en la red y que se monitoreen regularmente las actividades de la aplicación para detectar posibles inyecciones. Además, se debe fomentar la educación sobre la seguridad en el uso de LaTeX y cómo evitar la introducción de código malicioso.
 
-A continuación, se os proporciona el enlace correspondiente al proyecto de Github que nos descargamos para desplegar un laboratorio vulnerable donde poder practicar esta vulnerabilidad:
+A continuación, se os proporciona el enlace correspondiente al proyecto de Github para desplegar un laboratorio vulnerable donde poder practicar esta vulnerabilidad:
 
 -   **Laboratorio LaTeX Injection**: [https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/web90/code](https://github.com/internetwache/Internetwache-CTF-2016/tree/master/tasks/web90/code)
