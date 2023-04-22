@@ -6,7 +6,7 @@ Los atacantes pueden aprovechar una vulnerabilidad de CSTI para inyectar código
 
 Por ejemplo, imagina que una aplicación web utiliza plantillas de cliente para generar contenido dinámico. Un atacante podría aprovechar una vulnerabilidad de CSTI para inyectar código malicioso en la plantilla de cliente, lo que permitiría al atacante ejecutar comandos en el navegador del usuario y obtener acceso no autorizado a los datos sensibles de la aplicación web.
 
-Una derivación común en un ataque de Client-Side Template Injection (CSTI) es aprovecharlo para realizar un ataque de **Cross-Site Scripting** (**XSS**).
+Una derivación común en un ataque de **Client-Side Template Injection (CSTI)** es aprovecharlo para realizar un ataque de **Cross-Site Scripting** (**XSS**).
 
 Una vez que un atacante ha inyectado código malicioso en la plantilla de cliente, puede manipular los datos que se muestran al usuario, lo que le permite ejecutar código JavaScript en el navegador del usuario. A través de este código malicioso, el atacante puede intentar robar la cookie de sesión del usuario, lo que le permitiría obtener acceso no autorizado a la cuenta del usuario y realizar acciones maliciosas en su nombre.
 

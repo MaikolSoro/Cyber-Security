@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da9d8ae83fbc46cb",
+        "id": "117be1a2f9987f58",
         "type": "tabs",
         "children": [
           {
-            "id": "9214b0e5b40ebe8d",
+            "id": "b4c33a8606e2919e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,13 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -122,12 +123,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,34 +140,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "265062e33609b84b",
+  "active": "b4c33a8606e2919e",
   "lastOpenFiles": [
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Shellshock.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Client-Side Template Injection (CSTI).md",
+    "Apuntes/Docker/DockerFile.md",
+    "Apuntes/Docker/Docker-Compose.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Remote File Inclusion (RFI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/LDAP.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones LaTeX.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de Deserialización.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de asignación masiva.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque Type Juggling.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque de oráculo de relleno (Padding Oracle).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de subidas de archivos.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de APIS.md",
+    "Apuntes/Docker/Monturas.md",
+    "Apuntes/Docker/Commandos de Docker.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Shellshock.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque Type Juggling.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque de oráculo de relleno (Padding Oracle).md",
     "Apuntes/Hacking/BurpSuite.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Remote File Inclusion (RFI).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Log Poisoning (LFI - RCE).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Request Forgery (CSRF).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Request Forgery (SSRF).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Client-Side Template Injection (CSTI).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Template Injection (SSTI).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones NoSQL.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/LDAP.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de Deserialización.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones LaTeX.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Prototype Pollution.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de transferencia de zona (AXFR – Full Zone Transfer).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Open Redirect.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Squid Proxy.md",
     "Apuntes/Hacking",
     "Apuntes/Hacking/Explotación Vulnerabilidades",
     "Apuntes/Docker",
