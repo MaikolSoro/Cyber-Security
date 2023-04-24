@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4cda25ad9f6aeaf",
+        "id": "90c0d1871c29dd6e",
         "type": "tabs",
         "children": [
           {
-            "id": "25dc5c6627aad176",
+            "id": "1026cdd56cf56a71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Task✅.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 365.5
   },
   "right": {
     "id": "bcf92ae4f720dcca",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Apuntes/Task✅.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Apuntes/Task✅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Apuntes/Task✅.md"
+              }
             }
           }
         ],
@@ -140,34 +148,35 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "25dc5c6627aad176",
+  "active": "1026cdd56cf56a71",
   "lastOpenFiles": [
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/CORS.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Insecure Direct Object Reference (IDORs).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/XPath Injection.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/LDAP.md",
-    "Apuntes/Docker/DockerFile.md",
-    "Apuntes/Docker/Docker-Compose.md",
-    "Apuntes/Docker/Docker.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Request Forgery (CSRF).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque Type Juggling.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de APIS.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Open Redirect.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Prototype Pollution.md",
-    "Apuntes/Hacking/Hacking Active Directory/Hacking Kerberos.md",
-    "Apuntes/Hacking/Hacking Active Directory/2 - Ataque Samba Relay.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque de oráculo de relleno (Padding Oracle).md",
-    "Apuntes/Hacking/Explotación Vulnerabilidades/Forward Shell.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Log Poisoning (LFI - RCE).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Shellshock.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Request Forgery (SSRF).md",
     "Apuntes/Hacking/Explotación Vulnerabilidades/Reverse Shell.md",
     "Apuntes/Hacking/Explotación Vulnerabilidades/Bind Shell.md",
-    "Apuntes/Hacking/Hacking Active Directory/SMBmap.md",
-    "Apuntes/Hacking/Hacking Active Directory/SMBclient.md",
-    "Apuntes/Hacking/Hacking Active Directory/Crackmapexec.md",
-    "Apuntes/Hacking/Hacking Active Directory/1 - Configurar Active Directory + Equipos clientes.md",
+    "Apuntes/Hacking/Explotación Vulnerabilidades/Forward Shell.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Template Injection (SSTI).md",
+    "Apuntes/Task✅.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de subidas de archivos.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de asignación masiva.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de Deserialización.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque de oráculo de relleno (Padding Oracle).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones LaTeX.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de transferencia de zona (AXFR – Full Zone Transfer).md",
+    "Apuntes/Gestores de contenido/WordPress/WordPress.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Condiciones de carrera (Race Condition).md",
+    "Apuntes/Gestores de contenido/WordPress/Wpscan.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Deserialización Pickle (DES-Pickle).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Python – Ataque de Deserialización Yaml (DES-Yaml).md",
+    "Apuntes/Gestores de contenido/Magento/Magento.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Client-Side Template Injection (CSTI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI).md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Squid Proxy.md",
+    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Untitled",
     "Apuntes/images/wrsfgwsergrsedghdrfg.png",
     "Apuntes/images/Untitled.png",
     "Apuntes/images/Untitled 9.png",
@@ -186,7 +195,6 @@
     "Apuntes/Docker",
     "Apuntes/Nmap",
     "Apuntes/Gestores de contenido/Magento",
-    "Apuntes/Gestores de contenido/Joomla",
-    "Apuntes/Gestores de contenido/Drupal"
+    "Apuntes/Gestores de contenido/Joomla"
   ]
 }
