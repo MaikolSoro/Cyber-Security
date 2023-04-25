@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90c0d1871c29dd6e",
+        "id": "fa131b952ade9888",
         "type": "tabs",
         "children": [
           {
-            "id": "1026cdd56cf56a71",
+            "id": "d68a2c2e0d2e944d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Task✅.md",
+                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Task✅.md",
+                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Task✅.md",
+                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Task✅.md"
+                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md"
               }
             }
           }
@@ -148,8 +148,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1026cdd56cf56a71",
+  "active": "d68a2c2e0d2e944d",
   "lastOpenFiles": [
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Explotación del Kernel.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Docker Breakout.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Detección y explotación de tareas Cron.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Detección y explotación de Capabilities.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de servicios internos del sistema.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de grupos de usuario especiales.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de binarios específicos.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/PATH Hijacking.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Python Library Hijacking.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abusando de privilegios a nivel de Sudoers.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abusando de privilegios SUID.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de permisos incorrectamente implementados.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
+    "Apuntes/Task✅.md",
+    "Apuntes/Hacking/Explotación Vulnerabilidades/Bind Shell.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Untitled",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Request Forgery (CSRF).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque Type Juggling.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE).md",
@@ -157,25 +175,9 @@
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Shellshock.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Request Forgery (SSRF).md",
     "Apuntes/Hacking/Explotación Vulnerabilidades/Reverse Shell.md",
-    "Apuntes/Hacking/Explotación Vulnerabilidades/Bind Shell.md",
     "Apuntes/Hacking/Explotación Vulnerabilidades/Forward Shell.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Template Injection (SSTI).md",
-    "Apuntes/Task✅.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Abuso de subidas de archivos.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque de oráculo de relleno (Padding Oracle).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Inyecciones LaTeX.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataques de transferencia de zona (AXFR – Full Zone Transfer).md",
-    "Apuntes/Gestores de contenido/WordPress/WordPress.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Condiciones de carrera (Race Condition).md",
-    "Apuntes/Gestores de contenido/WordPress/Wpscan.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Deserialización Pickle (DES-Pickle).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Python – Ataque de Deserialización Yaml (DES-Yaml).md",
-    "Apuntes/Gestores de contenido/Magento/Magento.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/SQL Injection (SQLI).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Client-Side Template Injection (CSTI).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Local File Inclusion (LFI).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Squid Proxy.md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Untitled",
     "Apuntes/images/wrsfgwsergrsedghdrfg.png",
     "Apuntes/images/Untitled.png",
@@ -193,8 +195,6 @@
     "Apuntes/Hacking",
     "Apuntes/Hacking/Explotación Vulnerabilidades",
     "Apuntes/Docker",
-    "Apuntes/Nmap",
-    "Apuntes/Gestores de contenido/Magento",
-    "Apuntes/Gestores de contenido/Joomla"
+    "Apuntes/Nmap"
   ]
 }
