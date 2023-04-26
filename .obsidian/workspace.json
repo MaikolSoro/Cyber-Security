@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa131b952ade9888",
+        "id": "47725314ff100b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "d68a2c2e0d2e944d",
+            "id": "c71539ce78493dff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,53 +139,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d68a2c2e0d2e944d",
+  "active": "c71539ce78493dff",
   "lastOpenFiles": [
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Explotación del Kernel.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Docker Breakout.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Detección y explotación de tareas Cron.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Detección y explotación de Capabilities.md",
+    "Apuntes/Hacking/Buffer Overflow/Funcionamiento y creación manual de Shellcodes.md",
+    "Apuntes/images/Screenshot (41).png",
+    "Apuntes/Hacking/Buffer Overflow/Untitled.md",
+    "Apuntes/images/Screenshot (39).png",
+    "Apuntes/images/Screenshot (36).png",
+    "Apuntes/images/Screenshot (38).png",
+    "Apuntes/Hacking/Buffer Overflow/Explotando un nuevo binario.md",
+    "Apuntes/Hacking/Buffer Overflow/Modificación del Shellcode para controlar el comando que se desea ejecutar..md",
+    "Apuntes/images/Screenshot (33) 1.png",
+    "Apuntes/images/Screenshot (33) 1 1.png",
+    "Apuntes/images/Screenshot (33) 2.png",
+    "Apuntes/images/Screenshot (33) 3.png",
+    "Apuntes/images/Screenshot (35) 1.png",
+    "Apuntes/Hacking/Buffer Overflow/Búsqueda de OpCodes para entrar al ESP y cargar nuestro Shellcode.md",
+    "Apuntes/images/Screenshot (33) 4.png",
+    "Apuntes/Hacking/Buffer Overflow/Generación de Bytearrays y detección de Badchars.md",
+    "Apuntes/Hacking/Buffer Overflow/Configurando todo el laboratorio.md",
+    "Apuntes/Hacking/Buffer Overflow/Fase inicial de Fuzzing y tomando el control del registro EIP.md",
+    "Apuntes/Hacking/Buffer Overflow/Uso de NOPs, desplazamientos en pila e interpretación del Shellcode para lograr RCE.md",
+    "Apuntes/Hacking/Hacking Active Directory/2 - Ataque Samba Relay.md",
+    "Apuntes/Hacking/Buffer Overflow/Asignación de espacio para el Shellcode.md",
+    "Apuntes/Hacking/Buffer Overflow/Buffer overflow.md",
+    "Apuntes/Hacking/Buffer Overflow/Untitled",
+    "Apuntes/Índice 📝.md",
+    "Apuntes/Hacking/Buffer Overflow",
     "Apuntes/Hacking/Técnicas de escalada de privilegios/Cuestionario de escalada de privilegios✅.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de servicios internos del sistema.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de grupos de usuario especiales.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de binarios específicos.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/PATH Hijacking.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Python Library Hijacking.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abusando de privilegios a nivel de Sudoers.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abusando de privilegios SUID.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Abuso de permisos incorrectamente implementados.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Secuestro de la biblioteca de objetos compartidos enlazados dinámicamente.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios",
     "Apuntes/Task✅.md",
-    "Apuntes/Hacking/Explotación Vulnerabilidades/Bind Shell.md",
-    "Apuntes/Hacking/Técnicas de escalada de privilegios/Untitled",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Explotación del Kernel.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Docker Breakout.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Detección y explotación de tareas Cron.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Detección y explotación de Capabilities.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Abuso de servicios internos del sistema.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Abuso de grupos de usuario especiales.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Abuso de binarios específicos.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/PATH Hijacking.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Python Library Hijacking.md",
+    "Apuntes/Hacking/Técnicas de escalada de privilegios/Escalada de privilegios/Abusando de privilegios a nivel de Sudoers.md",
     "Apuntes/Hacking/Técnicas de escalada de privilegios",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Request Forgery (CSRF).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Ataque Type Juggling.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/XML External Entity Injection (XXE).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Log Poisoning (LFI - RCE).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Shellshock.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Request Forgery (SSRF).md",
-    "Apuntes/Hacking/Explotación Vulnerabilidades/Reverse Shell.md",
-    "Apuntes/Hacking/Explotación Vulnerabilidades/Forward Shell.md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Server-Side Template Injection (SSTI).md",
-    "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Cross-Site Scripting (XSS).md",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web/Untitled",
-    "Apuntes/images/wrsfgwsergrsedghdrfg.png",
-    "Apuntes/images/Untitled.png",
-    "Apuntes/images/Untitled 9.png",
-    "Apuntes/images/Untitled 8.png",
-    "Apuntes/images/Untitled 7.png",
-    "Apuntes/images/Untitled 7 1.png",
-    "Apuntes/images/Untitled 6.png",
-    "Apuntes/images/Untitled 6 1.png",
-    "Apuntes/images/Untitled 5.png",
-    "Apuntes/images/Untitled 5 1.png",
     "Apuntes/images",
     "Apuntes/Hacking/Hacking Active Directory",
     "Apuntes/Hacking/OWASP TOP 10 y vulnerabilidades web",
     "Apuntes/Hacking",
-    "Apuntes/Hacking/Explotación Vulnerabilidades",
-    "Apuntes/Docker",
-    "Apuntes/Nmap"
+    "Apuntes/Hacking/Explotación Vulnerabilidades"
   ]
 }
