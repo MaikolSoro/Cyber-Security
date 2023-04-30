@@ -132,7 +132,7 @@ Un ataque CSRF engaña a la víctima para que envíe solicitudes HTTP no autoriz
 ¿Qué tipo de ataque XSS se ejecuta en tiempo real y no se almacena en el servidor?
 
 - Persistente
-- Reflejado dsdsds
+- Reflejado **dsdsds**
 - DOM-based
 - Local
 
